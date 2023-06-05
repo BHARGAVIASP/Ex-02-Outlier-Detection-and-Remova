@@ -1,1 +1,1 @@
-# Ex-02-Outlier-Detection-and-Remova
+# Ex-02-Outlier-Detection-and-Removal
